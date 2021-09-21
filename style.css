@@ -83,7 +83,7 @@ img {
   
   #lezioni .row>.right,
   #lezioni .row>.central,
-  #lezioni .row>.left
+  #lezioni .row>.left,
   #steps .row>.right,
   #steps .row>.central,
   #steps .row>.left,
@@ -91,7 +91,7 @@ img {
   #why .row>.second,
   #why .row>.third {
     width: 100%;
-    margin: auto;
+    margin: 16px auto;
   }
 
   #lezioni .row,
