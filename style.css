@@ -99,11 +99,7 @@ img {
   #lezioni .row,
   #steps .row,
   #steps .row,
-  #steps .row {
-    width: 100%;
-    margin: 0 auto;
-  }
-
+  #steps .row,
   #why .row,
   #why .row,
   #why .row {
@@ -117,6 +113,7 @@ img {
     background-color: rgb(252, 252, 189);
     font-size: 20px;
     padding: 12px;
+    width: 100%;
   }
 
   #steps {
@@ -127,6 +124,11 @@ img {
   #steps h1,
   #why h1 {
     font-size: 36px;
+  }
+
+  img {
+    width: 60vw;
+    object-fit: contain;
   }
 }
 
